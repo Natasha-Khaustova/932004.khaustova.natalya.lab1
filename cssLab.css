@@ -1,0 +1,83 @@
+body
+{ margin: 0;
+  padding: 0;	
+  background-color: white;
+}
+#hellocontent
+{
+	background-color:blue;
+    color:white;
+    
+}
+#text
+{
+	color:white;
+	font-size: large;
+}
+#helloheader
+{
+	background-color:limegreen;
+	color:white;
+	padding: 1px 0% 1px 47%;
+	font-size: medium;
+}
+#link
+{
+	margin: 38%;
+	color: red;
+	font-size: large;
+}
+#quadrate
+{
+float: left;
+width: 100px;
+height: 100px;
+background-color: blue;
+border: 6px solid white;
+border-radius: 15px 0px 15px 0px;
+margin: 0 20px 0 0;
+}
+#together
+{
+	margin: 0 25% 0px;
+	padding: 20px 10px 40px;
+	color: white;
+	background-color: blue;
+}
+#herered
+{
+	color: red;
+}
+#value2
+{
+	color: deepskyblue;
+	letter-spacing: 5px;
+	margin: 5px 0px;
+}
+.del
+{
+	list-style-type: none;
+	margin: 20px 0px;
+}
+td
+{
+width: 60px;
+height:60px;
+border: solid 1px silver;
+text-align:center;
+}
+#table
+{
+	float: right;
+}
+#image
+{
+	float: right;
+}
+#hellofooter
+{
+	background-color:limegreen;
+	color:white;
+	padding: 1px 0% 1px 47%;
+	font-size: medium;
+}
