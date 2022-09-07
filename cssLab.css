@@ -43,6 +43,7 @@ margin: 0 20px 0 0;
 	padding: 20px 10px 40px;
 	color: white;
 	background-color: blue;
+	font-family: Arial;
 }
 #herered
 {
@@ -65,10 +66,17 @@ width: 60px;
 height:60px;
 border: solid 1px silver;
 text-align:center;
+vertical-align: bottom;
+border-spacing: 2px;
+}
+table
+{
+	border-spacing: 4px;
 }
 #table
 {
 	float: right;
+	border: solid 1px silver;
 }
 #image
 {
@@ -80,4 +88,8 @@ text-align:center;
 	color:white;
 	padding: 1px 0% 1px 47%;
 	font-size: medium;
+}
+#distancehere
+{
+	word-spacing: 20px;
 }
